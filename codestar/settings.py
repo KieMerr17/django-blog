@@ -33,7 +33,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-kiemerr17-django-blog-8iewxiw3ap.us2.codeanyapp.com',
-    'https://codestar1703.herokuapp.com/',
+    'codestar1703.herokuapp.com',
     'localhost'
 ]
 
